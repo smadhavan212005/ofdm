@@ -1,4 +1,4 @@
-**Live app: https://ofdm.smadhavan.me/**
+**GitGub Repository: https://github.com/smadhavan212005/ofdm/**
 
 
 # OFDM IFFT + Cyclic-Prefix transmitter (RTL + MATLAB golden model)
